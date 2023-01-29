@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="557fb45c-8561-4f85-b178-f46f932d7490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zzm/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zzm/git/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +41,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -92,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674923297458</updated>
       <workItem from="1674923305736" duration="768000" />
+      <workItem from="1674980181039" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674923995044</created>
@@ -100,33 +104,74 @@
       <option name="project" value="LOCAL" />
       <updated>1674923995044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hot-fix commit1">
+      <created>1674924745702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674924745703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fiv commit">
+      <created>1674924876371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674924876371</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="hot-fix commit1" />
+    <MESSAGE value="fiv commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fiv commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="270" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1674923849369">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="488" y="270" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.760@0.0.1280.760" timestamp="1674923849369" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1674924742910">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1674924872299">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1674924742910" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1674924872299" />
     <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1674923577146">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1674923577146" />
-    <state x="142" y="23" key="SettingsEditor" timestamp="1674923418369">
+    <state x="518" y="272" width="269" height="217" key="Github.ShareDialog" timestamp="1674984864486">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1674923418369" />
+    <state x="518" y="272" width="269" height="217" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1674984864486" />
+    <state x="142" y="23" key="SettingsEditor" timestamp="1674984674566">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1674984674566" />
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1674985303532">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1674985303532" />
+    <state x="324" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1674980524759">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="324" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1674980524759" />
     <state x="403" y="95" key="git4idea.branch.GitSmartOperationDialog" timestamp="1674924842858">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
