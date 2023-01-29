@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="557fb45c-8561-4f85-b178-f46f932d7490" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zzm/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zzm/git/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -95,7 +99,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674923297458</updated>
       <workItem from="1674923305736" duration="768000" />
-      <workItem from="1674980181039" duration="2623000" />
+      <workItem from="1674980181039" duration="3714000" />
+      <workItem from="1674995204076" duration="10532000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674923995044</created>
@@ -132,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674985477182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second commit">
+      <created>1674985523507</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674985523507</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,30 +175,30 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="488" y="270" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.760@0.0.1280.760" timestamp="1674923849369" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1674985473219">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1675005884637">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1674985473219" />
-    <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1674923577146">
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1675005884637" />
+    <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1674985837564">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1674923577146" />
+    <state x="421" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1674985837564" />
     <state x="518" y="272" width="269" height="217" key="Github.ShareDialog" timestamp="1674984864486">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="518" y="272" width="269" height="217" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1674984864486" />
-    <state x="142" y="23" key="SettingsEditor" timestamp="1674984674566">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1675005422078">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1674984674566" />
-    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1674985372903">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1675005422078" />
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1675005528331">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1674985372903" />
-    <state x="324" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1674980524759">
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1675005528331" />
+    <state x="324" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1674995215231">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="324" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1674980524759" />
+    <state x="324" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1674995215231" />
     <state x="437" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1674985508921">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
